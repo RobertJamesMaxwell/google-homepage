@@ -1,3 +1,4 @@
 # google-homepage
+Title of Project: HTML/CSS
 First Project from The Odin Project Course
-HTML/CSS
+http://www.theodinproject.com
